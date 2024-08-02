@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Annotator" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="BuildoutUnresolvedPartInspection" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="EditorConfigValueCorrectness" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SyntaxError" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="XmlHighlighting" enabled="true" level="TYPO" enabled_by_default="true" />
+  </profile>
+</component>
